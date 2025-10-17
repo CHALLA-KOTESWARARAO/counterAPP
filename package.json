@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://github.com/CHALLA-KOTESWARARAO/counterAPP",
+  "homepage":"https://CHALLA-KOTESWARARAO.github.io/counterAPP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
